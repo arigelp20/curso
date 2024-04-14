@@ -127,4 +127,4 @@ El equipo de Humai,
 
 <br>  
 
-<img src='https://humai.com.ar/static/logos/isologo.png' width='80px' margin='100px'></img>
+<img src='https://humai.com.ar/static/logos/isologo.png' width='80px' margin='100px'></img>HOLA
